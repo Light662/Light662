@@ -6,12 +6,13 @@ I'm learning how to build modern, responsive, and interactive web applications.
 
 Currently exploring **React, TypeScript, JavaScript, and modern frontend development**, while working toward becoming a full-stack developer.
 
-<a>
+<picture>
   <img src="https://img.shields.io/badge/Currently%20Learning-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Currently Learning React">
-</a>
-<a>
+</picture>
+
+<picture>
   <img src="https://img.shields.io/badge/Building-Full--Stack%20Skills-181717?style=for-the-badge&logo=github&logoColor=white" alt="Building Full-Stack Skills">
-</a>
+</picture>
 
 ---
 
@@ -29,30 +30,34 @@ Currently exploring **React, TypeScript, JavaScript, and modern frontend develop
 
 ## 🛠️ Tech Stack
 
-<a>
+<picture>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,git,github,vscode" alt="Tech Stack">
-</a>
+</picture>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎓 E-School
+
 A responsive educational website built while practicing modern frontend development.
 
 **Tech:** HTML • CSS
 
 ### 🛍️ Panda Commerce
+
 An e-commerce style project focused on responsive layouts and frontend design.
 
 **Tech:** HTML • CSS • Responsive Design
 
 ### 💼 Web Portfolio
+
 A personal portfolio website showcasing my development journey and projects.
 
 **Tech:** HTML • CSS
 
 ### 📱 Hot Gadgets
+
 A responsive product-focused landing page built to practice modern web layouts.
 
 **Tech:** HTML • CSS • Responsive Design
@@ -85,25 +90,25 @@ Full-Stack Development 🚀
 
 ## 📊 GitHub Activity
 
-<a>
+<picture>
   <img src="https://github-readme-stats.vercel.app/api?username=Light662&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</a>
+</picture>
 
-<a>
+<picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Light662&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</a>
+</picture>
 
-<a>
+<picture>
   <img src="https://streak-stats.demolab.com?user=Light662&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</a>
+</picture>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<a>
+<picture>
   <img src="https://github-profile-trophy.vercel.app/?username=Light662&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</a>
+</picture>
 
 ---
 
