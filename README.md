@@ -16,9 +16,9 @@ Currently exploring **React, TypeScript, JavaScript, and modern frontend develop
 ## 🧠 About Me
 
 - ⚛️ Currently learning **React**
-- 🟦 Working with **TypeScript & JavaScript**
+- 🟦 Improving my **TypeScript & JavaScript**
 - 🎨 Building interfaces with **Tailwind CSS**
-- 🛠️ Learning by building real projects
+- 🛠️ Learning through real-world projects
 - 📚 Following a **Full Stack Web Engineering** learning path
 - 🚀 Working toward becoming a **Full-Stack Developer**
 
@@ -27,12 +27,8 @@ Currently exploring **React, TypeScript, JavaScript, and modern frontend develop
 ## ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,git,github,vscode" alt="Tech Stack" />
 </p>
-
-### 🧩 Familiar With
-
-`HTML` `CSS` `JavaScript` `TypeScript` `Tailwind CSS` `Git` `GitHub`
 
 ### 🔭 Currently Learning
 
@@ -42,27 +38,27 @@ Currently exploring **React, TypeScript, JavaScript, and modern frontend develop
 
 ## 🚀 Featured Projects
 
-### 🎓 E-School
+### 🎓 [E-School](https://github.com/Light662/e-school)
 
 An educational website built during my frontend development journey.
 
 **HTML • CSS • Tailwind CSS**
 
-### 🛍️ Panda Commerce
+### 🛍️ [Panda Commerce](https://github.com/Light662/panda-commerce)
 
-A responsive e-commerce interface focused on practicing layouts, components, and responsive design.
+A responsive e-commerce interface focused on practicing layouts and responsive design.
 
 **HTML • CSS**
 
-### 💻 Web Portfolio
+### 💻 [Web Portfolio](https://github.com/Light662/web-portfolio)
 
 A personal portfolio project built while improving my frontend development skills.
 
 **HTML • CSS**
 
-### 🎮 Hot Gadgets
+### 🎮 [Hot Gadgets](https://github.com/Light662/Hot-Gadgets)
 
-A responsive product-focused website created to practice modern web layouts and responsive design.
+A responsive product-focused website created to practice modern web layouts.
 
 **HTML • CSS**
 
@@ -95,12 +91,22 @@ Full-Stack Developer 🚀
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Light662&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Light662&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <a href="https://github.com/Light662">
+    <img src="https://github-readme-stats.vercel.app/api?username=Light662&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Light662">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Light662&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  </a>
 </p>
 
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Light662&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/Light662">
+    <img src="https://streak-stats.demolab.com?user=Light662&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -108,12 +114,14 @@ Full-Stack Developer 🚀
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Light662&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <a href="https://github.com/Light662">
+    <img src="https://github-profile-trophy.vercel.app/?username=Light662&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Goals
 
 - [x] HTML
 - [x] CSS
