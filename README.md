@@ -102,13 +102,6 @@ Full-Stack Development 🚀
   <img src="https://streak-stats.demolab.com?user=Light662&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </picture>
 
----
-
-## 🏆 GitHub Trophies
-
-<picture>
-  <img src="https://github-profile-trophy.vercel.app/?username=Light662&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</picture>
 
 ---
 
